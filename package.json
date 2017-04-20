@@ -1,0 +1,31 @@
+{
+  "name": "jagertk103btcp",
+  "version": "1.0.0",
+  "description": "TCP TK103 listenner ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acner/jagertk10xtcp.git"
+  },
+   "dependencies": {
+    "moment":"*",
+    "pg":">=4.0",
+    "bluebird":">=2.9",
+    "nodemailer":">=3.0"
+  },
+  "keywords": [
+    "tk103",
+    "tk102",
+    "tk10x",
+    "tk10"
+  ],
+  "author": "Acner Pinazo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acner/jagertk10xtcp/issues"
+  },
+  "homepage": "https://github.com/acner/jagertk10xtcp#readme"
+}
